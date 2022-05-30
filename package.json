@@ -1,0 +1,13 @@
+{
+    "id": "zhangyuhao-simple-editor",
+    "name": "一个简单的手机端图文视频编辑组件",
+    "version": "1.0.2",
+    "description": "一个简单的手机端图文视频编辑组件",
+    "keywords": [
+        "手机端",
+        "图文",
+        "视频",
+        "编辑",
+        "富文本"
+    ]
+}

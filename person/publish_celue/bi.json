@@ -1,0 +1,3422 @@
+[
+    {
+        "kid": "1232345325442",
+        "name": "BTC/USDT",
+        "symbol": "cfd.btc.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 2,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "1232345325433",
+        "name": "ETH/USDT",
+        "symbol": "cfd.eth.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 2,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "1232345325445",
+        "name": "EOS/USDT",
+        "symbol": "cfd.eos.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 5,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "1232345325447",
+        "name": "BNB/USDT",
+        "symbol": "cfd.bnb.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 4,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "1232345325454",
+        "name": "UNI/USDT",
+        "symbol": "cfd.uni.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 4,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "1232345325455",
+        "name": "FTM/USDT",
+        "symbol": "cfd.ftm.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 5,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "1232345325456",
+        "name": "ADA/USDT",
+        "symbol": "cfd.ada.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "1232345325457",
+        "name": "FIL/USDT",
+        "symbol": "cfd.fil.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 4,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "1232345325458",
+        "name": "SOL/USDT",
+        "symbol": "cfd.sol.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 5,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "1232345325459",
+        "name": "LUNA/USDT",
+        "symbol": "cfd.luna.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 4,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "1232345325463",
+        "name": "前沿生物",
+        "symbol": "fund.sh688221.-.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 2,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "1232345327462",
+        "name": "安旭生物",
+        "symbol": "fund.sh688075.-.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 2,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "12323453274611",
+        "name": "热景生物",
+        "symbol": "fund.sh688068.-.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 2,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746112",
+        "name": "NEO/USDT",
+        "symbol": "cfd.neo.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746113",
+        "name": "LTC/USDT",
+        "symbol": "cfd.ltc.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746114",
+        "name": "QTUM/USDT",
+        "symbol": "cfd.qtum.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746115",
+        "name": "XRP/USDT",
+        "symbol": "cfd.xrp.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746116",
+        "name": "TUSD/USDT",
+        "symbol": "cfd.tusd.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746117",
+        "name": "IOTA/USDT",
+        "symbol": "cfd.iota.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746118",
+        "name": "XLM/USDT",
+        "symbol": "cfd.xlm.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746119",
+        "name": "ONT/USDT",
+        "symbol": "cfd.ont.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746120",
+        "name": "TRX/USDT",
+        "symbol": "cfd.trx.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746121",
+        "name": "ETC/USDT",
+        "symbol": "cfd.etc.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746122",
+        "name": "ICX/USDT",
+        "symbol": "cfd.icx.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746123",
+        "name": "NULS/USDT",
+        "symbol": "cfd.nuls.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746124",
+        "name": "VET/USDT",
+        "symbol": "cfd.vet.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746125",
+        "name": "USDC/USDT",
+        "symbol": "cfd.usdc.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746126",
+        "name": "LINK/USDT",
+        "symbol": "cfd.link.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746127",
+        "name": "WAVES/USDT",
+        "symbol": "cfd.waves.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746128",
+        "name": "ONG/USDT",
+        "symbol": "cfd.ong.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746129",
+        "name": "HOT/USDT",
+        "symbol": "cfd.hot.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746130",
+        "name": "ZIL/USDT",
+        "symbol": "cfd.zil.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746131",
+        "name": "ZRX/USDT",
+        "symbol": "cfd.zrx.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746132",
+        "name": "FET/USDT",
+        "symbol": "cfd.fet.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746133",
+        "name": "BAT/USDT",
+        "symbol": "cfd.bat.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746134",
+        "name": "XMR/USDT",
+        "symbol": "cfd.xmr.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746135",
+        "name": "ZEC/USDT",
+        "symbol": "cfd.zec.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746136",
+        "name": "IOST/USDT",
+        "symbol": "cfd.iost.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746137",
+        "name": "CELR/USDT",
+        "symbol": "cfd.celr.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746138",
+        "name": "DASH/USDT",
+        "symbol": "cfd.dash.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746139",
+        "name": "OMG/USDT",
+        "symbol": "cfd.omg.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746140",
+        "name": "THETA/USDT",
+        "symbol": "cfd.theta.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746141",
+        "name": "ENJ/USDT",
+        "symbol": "cfd.enj.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746142",
+        "name": "MITH/USDT",
+        "symbol": "cfd.mith.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746143",
+        "name": "MATIC/USDT",
+        "symbol": "cfd.matic.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746144",
+        "name": "ATOM/USDT",
+        "symbol": "cfd.atom.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746145",
+        "name": "TFUEL/USDT",
+        "symbol": "cfd.tfuel.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746146",
+        "name": "ONE/USDT",
+        "symbol": "cfd.one.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746147",
+        "name": "ALGO/USDT",
+        "symbol": "cfd.algo.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746148",
+        "name": "GTO/USDT",
+        "symbol": "cfd.gto.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746149",
+        "name": "DOGE/USDT",
+        "symbol": "cfd.doge.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746150",
+        "name": "DUSK/USDT",
+        "symbol": "cfd.dusk.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746151",
+        "name": "ANKR/USDT",
+        "symbol": "cfd.ankr.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746152",
+        "name": "WIN/USDT",
+        "symbol": "cfd.win.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746153",
+        "name": "COS/USDT",
+        "symbol": "cfd.cos.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746154",
+        "name": "COCOS/USDT",
+        "symbol": "cfd.cocos.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746155",
+        "name": "MTL/USDT",
+        "symbol": "cfd.mtl.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746156",
+        "name": "TOMO/USDT",
+        "symbol": "cfd.tomo.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746157",
+        "name": "PERL/USDT",
+        "symbol": "cfd.perl.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746158",
+        "name": "DENT/USDT",
+        "symbol": "cfd.dent.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746159",
+        "name": "MFT/USDT",
+        "symbol": "cfd.mft.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746160",
+        "name": "KEY/USDT",
+        "symbol": "cfd.key.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746161",
+        "name": "DOCK/USDT",
+        "symbol": "cfd.dock.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746162",
+        "name": "WAN/USDT",
+        "symbol": "cfd.wan.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746163",
+        "name": "FUN/USDT",
+        "symbol": "cfd.fun.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746164",
+        "name": "CVC/USDT",
+        "symbol": "cfd.cvc.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746165",
+        "name": "CHZ/USDT",
+        "symbol": "cfd.chz.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746166",
+        "name": "BAND/USDT",
+        "symbol": "cfd.band.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746167",
+        "name": "BUSD/USDT",
+        "symbol": "cfd.busd.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746168",
+        "name": "BEAM/USDT",
+        "symbol": "cfd.beam.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746169",
+        "name": "XTZ/USDT",
+        "symbol": "cfd.xtz.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746170",
+        "name": "REN/USDT",
+        "symbol": "cfd.ren.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746171",
+        "name": "RVN/USDT",
+        "symbol": "cfd.rvn.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746172",
+        "name": "HBAR/USDT",
+        "symbol": "cfd.hbar.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746173",
+        "name": "NKN/USDT",
+        "symbol": "cfd.nkn.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746174",
+        "name": "STX/USDT",
+        "symbol": "cfd.stx.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746175",
+        "name": "KAVA/USDT",
+        "symbol": "cfd.kava.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746176",
+        "name": "ARPA/USDT",
+        "symbol": "cfd.arpa.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746177",
+        "name": "IOTX/USDT",
+        "symbol": "cfd.iotx.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746178",
+        "name": "RLC/USDT",
+        "symbol": "cfd.rlc.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746179",
+        "name": "CTXC/USDT",
+        "symbol": "cfd.ctxc.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746180",
+        "name": "BCH/USDT",
+        "symbol": "cfd.bch.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746181",
+        "name": "TROY/USDT",
+        "symbol": "cfd.troy.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746182",
+        "name": "VITE/USDT",
+        "symbol": "cfd.vite.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746183",
+        "name": "FTT/USDT",
+        "symbol": "cfd.ftt.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746184",
+        "name": "EUR/USDT",
+        "symbol": "cfd.eur.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746185",
+        "name": "OGN/USDT",
+        "symbol": "cfd.ogn.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746186",
+        "name": "DREP/USDT",
+        "symbol": "cfd.drep.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746187",
+        "name": "TCT/USDT",
+        "symbol": "cfd.tct.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746188",
+        "name": "WRX/USDT",
+        "symbol": "cfd.wrx.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746189",
+        "name": "BTS/USDT",
+        "symbol": "cfd.bts.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746190",
+        "name": "LSK/USDT",
+        "symbol": "cfd.lsk.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746191",
+        "name": "BNT/USDT",
+        "symbol": "cfd.bnt.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746192",
+        "name": "LTO/USDT",
+        "symbol": "cfd.lto.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746193",
+        "name": "AION/USDT",
+        "symbol": "cfd.aion.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746194",
+        "name": "MBL/USDT",
+        "symbol": "cfd.mbl.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746195",
+        "name": "COTI/USDT",
+        "symbol": "cfd.coti.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746196",
+        "name": "STPT/USDT",
+        "symbol": "cfd.stpt.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746197",
+        "name": "WTC/USDT",
+        "symbol": "cfd.wtc.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746198",
+        "name": "DATA/USDT",
+        "symbol": "cfd.data.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746199",
+        "name": "CTSI/USDT",
+        "symbol": "cfd.ctsi.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746200",
+        "name": "HIVE/USDT",
+        "symbol": "cfd.hive.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746201",
+        "name": "CHR/USDT",
+        "symbol": "cfd.chr.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746202",
+        "name": "BTCUP/USDT",
+        "symbol": "cfd.btcup.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746203",
+        "name": "BTCDOWN/USDT",
+        "symbol": "cfd.btcdown.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746204",
+        "name": "GXS/USDT",
+        "symbol": "cfd.gxs.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746205",
+        "name": "ARDR/USDT",
+        "symbol": "cfd.ardr.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746206",
+        "name": "MDT/USDT",
+        "symbol": "cfd.mdt.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746207",
+        "name": "STMX/USDT",
+        "symbol": "cfd.stmx.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746208",
+        "name": "KNC/USDT",
+        "symbol": "cfd.knc.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746209",
+        "name": "REP/USDT",
+        "symbol": "cfd.rep.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746210",
+        "name": "LRC/USDT",
+        "symbol": "cfd.lrc.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746211",
+        "name": "PNT/USDT",
+        "symbol": "cfd.pnt.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746212",
+        "name": "COMP/USDT",
+        "symbol": "cfd.comp.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746213",
+        "name": "SC/USDT",
+        "symbol": "cfd.sc.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746214",
+        "name": "ZEN/USDT",
+        "symbol": "cfd.zen.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746215",
+        "name": "SNX/USDT",
+        "symbol": "cfd.snx.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746216",
+        "name": "ETHUP/USDT",
+        "symbol": "cfd.ethup.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746217",
+        "name": "ETHDOWN/USDT",
+        "symbol": "cfd.ethdown.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746218",
+        "name": "ADAUP/USDT",
+        "symbol": "cfd.adaup.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746219",
+        "name": "ADADOWN/USDT",
+        "symbol": "cfd.adadown.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746220",
+        "name": "LINKUP/USDT",
+        "symbol": "cfd.linkup.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746221",
+        "name": "LINKDOWN/USDT",
+        "symbol": "cfd.linkdown.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746222",
+        "name": "VTHO/USDT",
+        "symbol": "cfd.vtho.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746223",
+        "name": "DGB/USDT",
+        "symbol": "cfd.dgb.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746224",
+        "name": "GBP/USDT",
+        "symbol": "cfd.gbp.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746225",
+        "name": "SXP/USDT",
+        "symbol": "cfd.sxp.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746226",
+        "name": "MKR/USDT",
+        "symbol": "cfd.mkr.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746227",
+        "name": "DCR/USDT",
+        "symbol": "cfd.dcr.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746228",
+        "name": "STORJ/USDT",
+        "symbol": "cfd.storj.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746229",
+        "name": "BNBUP/USDT",
+        "symbol": "cfd.bnbup.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746230",
+        "name": "BNBDOWN/USDT",
+        "symbol": "cfd.bnbdown.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746231",
+        "name": "MANA/USDT",
+        "symbol": "cfd.mana.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746232",
+        "name": "AUD/USDT",
+        "symbol": "cfd.aud.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746233",
+        "name": "YFI/USDT",
+        "symbol": "cfd.yfi.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746234",
+        "name": "BAL/USDT",
+        "symbol": "cfd.bal.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746235",
+        "name": "BLZ/USDT",
+        "symbol": "cfd.blz.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746236",
+        "name": "IRIS/USDT",
+        "symbol": "cfd.iris.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746237",
+        "name": "KMD/USDT",
+        "symbol": "cfd.kmd.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746238",
+        "name": "JST/USDT",
+        "symbol": "cfd.jst.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746239",
+        "name": "SRM/USDT",
+        "symbol": "cfd.srm.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746240",
+        "name": "ANT/USDT",
+        "symbol": "cfd.ant.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746241",
+        "name": "CRV/USDT",
+        "symbol": "cfd.crv.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746242",
+        "name": "SAND/USDT",
+        "symbol": "cfd.sand.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746243",
+        "name": "OCEAN/USDT",
+        "symbol": "cfd.ocean.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746244",
+        "name": "NMR/USDT",
+        "symbol": "cfd.nmr.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746245",
+        "name": "DOT/USDT",
+        "symbol": "cfd.dot.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746246",
+        "name": "RSR/USDT",
+        "symbol": "cfd.rsr.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746247",
+        "name": "PAXG/USDT",
+        "symbol": "cfd.paxg.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746248",
+        "name": "WNXM/USDT",
+        "symbol": "cfd.wnxm.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746249",
+        "name": "TRB/USDT",
+        "symbol": "cfd.trb.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746250",
+        "name": "SUSHI/USDT",
+        "symbol": "cfd.sushi.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746251",
+        "name": "YFII/USDT",
+        "symbol": "cfd.yfii.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746252",
+        "name": "KSM/USDT",
+        "symbol": "cfd.ksm.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746253",
+        "name": "EGLD/USDT",
+        "symbol": "cfd.egld.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746254",
+        "name": "DIA/USDT",
+        "symbol": "cfd.dia.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746255",
+        "name": "RUNE/USDT",
+        "symbol": "cfd.rune.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746256",
+        "name": "FIO/USDT",
+        "symbol": "cfd.fio.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746257",
+        "name": "UMA/USDT",
+        "symbol": "cfd.uma.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746258",
+        "name": "TRXUP/USDT",
+        "symbol": "cfd.trxup.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746259",
+        "name": "TRXDOWN/USDT",
+        "symbol": "cfd.trxdown.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746260",
+        "name": "XRPUP/USDT",
+        "symbol": "cfd.xrpup.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746261",
+        "name": "XRPDOWN/USDT",
+        "symbol": "cfd.xrpdown.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746262",
+        "name": "DOTUP/USDT",
+        "symbol": "cfd.dotup.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746263",
+        "name": "DOTDOWN/USDT",
+        "symbol": "cfd.dotdown.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746264",
+        "name": "BEL/USDT",
+        "symbol": "cfd.bel.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746265",
+        "name": "WING/USDT",
+        "symbol": "cfd.wing.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746266",
+        "name": "NBS/USDT",
+        "symbol": "cfd.nbs.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746267",
+        "name": "OXT/USDT",
+        "symbol": "cfd.oxt.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746268",
+        "name": "SUN/USDT",
+        "symbol": "cfd.sun.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746269",
+        "name": "AVAX/USDT",
+        "symbol": "cfd.avax.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746270",
+        "name": "HNT/USDT",
+        "symbol": "cfd.hnt.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746271",
+        "name": "FLM/USDT",
+        "symbol": "cfd.flm.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746272",
+        "name": "ORN/USDT",
+        "symbol": "cfd.orn.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746273",
+        "name": "UTK/USDT",
+        "symbol": "cfd.utk.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746274",
+        "name": "XVS/USDT",
+        "symbol": "cfd.xvs.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746275",
+        "name": "ALPHA/USDT",
+        "symbol": "cfd.alpha.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746276",
+        "name": "AAVE/USDT",
+        "symbol": "cfd.aave.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746277",
+        "name": "NEAR/USDT",
+        "symbol": "cfd.near.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746278",
+        "name": "INJ/USDT",
+        "symbol": "cfd.inj.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746279",
+        "name": "AUDIO/USDT",
+        "symbol": "cfd.audio.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746280",
+        "name": "CTK/USDT",
+        "symbol": "cfd.ctk.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746281",
+        "name": "AKRO/USDT",
+        "symbol": "cfd.akro.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746282",
+        "name": "AXS/USDT",
+        "symbol": "cfd.axs.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746283",
+        "name": "HARD/USDT",
+        "symbol": "cfd.hard.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746284",
+        "name": "DNT/USDT",
+        "symbol": "cfd.dnt.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746285",
+        "name": "STRAX/USDT",
+        "symbol": "cfd.strax.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746286",
+        "name": "UNFI/USDT",
+        "symbol": "cfd.unfi.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746287",
+        "name": "ROSE/USDT",
+        "symbol": "cfd.rose.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746288",
+        "name": "AVA/USDT",
+        "symbol": "cfd.ava.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746289",
+        "name": "XEM/USDT",
+        "symbol": "cfd.xem.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746290",
+        "name": "SKL/USDT",
+        "symbol": "cfd.skl.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746291",
+        "name": "SUSD/USDT",
+        "symbol": "cfd.susd.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746292",
+        "name": "GRT/USDT",
+        "symbol": "cfd.grt.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746293",
+        "name": "JUV/USDT",
+        "symbol": "cfd.juv.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746294",
+        "name": "PSG/USDT",
+        "symbol": "cfd.psg.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746295",
+        "name": "1INCH/USDT",
+        "symbol": "cfd.1inch.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746296",
+        "name": "REEF/USDT",
+        "symbol": "cfd.reef.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746297",
+        "name": "OG/USDT",
+        "symbol": "cfd.og.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746298",
+        "name": "ATM/USDT",
+        "symbol": "cfd.atm.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746299",
+        "name": "ASR/USDT",
+        "symbol": "cfd.asr.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746300",
+        "name": "CELO/USDT",
+        "symbol": "cfd.celo.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746301",
+        "name": "RIF/USDT",
+        "symbol": "cfd.rif.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746302",
+        "name": "BTCST/USDT",
+        "symbol": "cfd.btcst.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746303",
+        "name": "TRU/USDT",
+        "symbol": "cfd.tru.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746304",
+        "name": "CKB/USDT",
+        "symbol": "cfd.ckb.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746305",
+        "name": "TWT/USDT",
+        "symbol": "cfd.twt.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746306",
+        "name": "FIRO/USDT",
+        "symbol": "cfd.firo.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746307",
+        "name": "LIT/USDT",
+        "symbol": "cfd.lit.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746308",
+        "name": "SFP/USDT",
+        "symbol": "cfd.sfp.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746309",
+        "name": "DODO/USDT",
+        "symbol": "cfd.dodo.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746310",
+        "name": "CAKE/USDT",
+        "symbol": "cfd.cake.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746311",
+        "name": "ACM/USDT",
+        "symbol": "cfd.acm.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746312",
+        "name": "BADGER/USDT",
+        "symbol": "cfd.badger.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746313",
+        "name": "FIS/USDT",
+        "symbol": "cfd.fis.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746314",
+        "name": "OM/USDT",
+        "symbol": "cfd.om.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746315",
+        "name": "POND/USDT",
+        "symbol": "cfd.pond.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746316",
+        "name": "DEGO/USDT",
+        "symbol": "cfd.dego.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746317",
+        "name": "ALICE/USDT",
+        "symbol": "cfd.alice.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746318",
+        "name": "LINA/USDT",
+        "symbol": "cfd.lina.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746319",
+        "name": "PERP/USDT",
+        "symbol": "cfd.perp.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746320",
+        "name": "RAMP/USDT",
+        "symbol": "cfd.ramp.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746321",
+        "name": "SUPER/USDT",
+        "symbol": "cfd.super.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746322",
+        "name": "CFX/USDT",
+        "symbol": "cfd.cfx.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746323",
+        "name": "EPS/USDT",
+        "symbol": "cfd.eps.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746324",
+        "name": "AUTO/USDT",
+        "symbol": "cfd.auto.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746325",
+        "name": "TKO/USDT",
+        "symbol": "cfd.tko.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746326",
+        "name": "PUNDIX/USDT",
+        "symbol": "cfd.pundix.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746327",
+        "name": "TLM/USDT",
+        "symbol": "cfd.tlm.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746328",
+        "name": "BTG/USDT",
+        "symbol": "cfd.btg.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746329",
+        "name": "MIR/USDT",
+        "symbol": "cfd.mir.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746330",
+        "name": "BAR/USDT",
+        "symbol": "cfd.bar.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746331",
+        "name": "FORTH/USDT",
+        "symbol": "cfd.forth.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746332",
+        "name": "BAKE/USDT",
+        "symbol": "cfd.bake.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746333",
+        "name": "BURGER/USDT",
+        "symbol": "cfd.burger.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746334",
+        "name": "SLP/USDT",
+        "symbol": "cfd.slp.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746335",
+        "name": "SHIB/USDT",
+        "symbol": "cfd.shib.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746336",
+        "name": "ICP/USDT",
+        "symbol": "cfd.icp.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746337",
+        "name": "AR/USDT",
+        "symbol": "cfd.ar.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746338",
+        "name": "POLS/USDT",
+        "symbol": "cfd.pols.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746339",
+        "name": "MDX/USDT",
+        "symbol": "cfd.mdx.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746340",
+        "name": "MASK/USDT",
+        "symbol": "cfd.mask.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746341",
+        "name": "LPT/USDT",
+        "symbol": "cfd.lpt.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746342",
+        "name": "XVG/USDT",
+        "symbol": "cfd.xvg.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746343",
+        "name": "ATA/USDT",
+        "symbol": "cfd.ata.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746344",
+        "name": "GTC/USDT",
+        "symbol": "cfd.gtc.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746345",
+        "name": "TORN/USDT",
+        "symbol": "cfd.torn.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746346",
+        "name": "ERN/USDT",
+        "symbol": "cfd.ern.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746347",
+        "name": "KLAY/USDT",
+        "symbol": "cfd.klay.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746348",
+        "name": "PHA/USDT",
+        "symbol": "cfd.pha.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746349",
+        "name": "BOND/USDT",
+        "symbol": "cfd.bond.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746350",
+        "name": "MLN/USDT",
+        "symbol": "cfd.mln.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746351",
+        "name": "DEXE/USDT",
+        "symbol": "cfd.dexe.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746352",
+        "name": "C98/USDT",
+        "symbol": "cfd.c98.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746353",
+        "name": "CLV/USDT",
+        "symbol": "cfd.clv.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746354",
+        "name": "QNT/USDT",
+        "symbol": "cfd.qnt.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746355",
+        "name": "FLOW/USDT",
+        "symbol": "cfd.flow.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746356",
+        "name": "TVK/USDT",
+        "symbol": "cfd.tvk.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746357",
+        "name": "MINA/USDT",
+        "symbol": "cfd.mina.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746358",
+        "name": "RAY/USDT",
+        "symbol": "cfd.ray.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746359",
+        "name": "FARM/USDT",
+        "symbol": "cfd.farm.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746360",
+        "name": "ALPACA/USDT",
+        "symbol": "cfd.alpaca.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746361",
+        "name": "QUICK/USDT",
+        "symbol": "cfd.quick.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746362",
+        "name": "MBOX/USDT",
+        "symbol": "cfd.mbox.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746363",
+        "name": "FOR/USDT",
+        "symbol": "cfd.for.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746364",
+        "name": "REQ/USDT",
+        "symbol": "cfd.req.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746365",
+        "name": "GHST/USDT",
+        "symbol": "cfd.ghst.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746366",
+        "name": "WAXP/USDT",
+        "symbol": "cfd.waxp.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746367",
+        "name": "TRIBE/USDT",
+        "symbol": "cfd.tribe.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746368",
+        "name": "GNO/USDT",
+        "symbol": "cfd.gno.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746369",
+        "name": "XEC/USDT",
+        "symbol": "cfd.xec.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746370",
+        "name": "ELF/USDT",
+        "symbol": "cfd.elf.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746371",
+        "name": "DYDX/USDT",
+        "symbol": "cfd.dydx.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746372",
+        "name": "POLY/USDT",
+        "symbol": "cfd.poly.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746373",
+        "name": "IDEX/USDT",
+        "symbol": "cfd.idex.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746374",
+        "name": "VIDT/USDT",
+        "symbol": "cfd.vidt.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746375",
+        "name": "USDP/USDT",
+        "symbol": "cfd.usdp.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746376",
+        "name": "GALA/USDT",
+        "symbol": "cfd.gala.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746377",
+        "name": "ILV/USDT",
+        "symbol": "cfd.ilv.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746378",
+        "name": "YGG/USDT",
+        "symbol": "cfd.ygg.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746379",
+        "name": "SYS/USDT",
+        "symbol": "cfd.sys.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746380",
+        "name": "DF/USDT",
+        "symbol": "cfd.df.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746381",
+        "name": "FIDA/USDT",
+        "symbol": "cfd.fida.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746382",
+        "name": "FRONT/USDT",
+        "symbol": "cfd.front.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746383",
+        "name": "CVP/USDT",
+        "symbol": "cfd.cvp.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746384",
+        "name": "AGLD/USDT",
+        "symbol": "cfd.agld.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746385",
+        "name": "RAD/USDT",
+        "symbol": "cfd.rad.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746386",
+        "name": "BETA/USDT",
+        "symbol": "cfd.beta.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746387",
+        "name": "RARE/USDT",
+        "symbol": "cfd.rare.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746388",
+        "name": "LAZIO/USDT",
+        "symbol": "cfd.lazio.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746389",
+        "name": "CHESS/USDT",
+        "symbol": "cfd.chess.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746390",
+        "name": "ADX/USDT",
+        "symbol": "cfd.adx.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746391",
+        "name": "AUCTION/USDT",
+        "symbol": "cfd.auction.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746392",
+        "name": "DAR/USDT",
+        "symbol": "cfd.dar.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746393",
+        "name": "BNX/USDT",
+        "symbol": "cfd.bnx.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746394",
+        "name": "RGT/USDT",
+        "symbol": "cfd.rgt.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746395",
+        "name": "MOVR/USDT",
+        "symbol": "cfd.movr.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746396",
+        "name": "CITY/USDT",
+        "symbol": "cfd.city.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746397",
+        "name": "ENS/USDT",
+        "symbol": "cfd.ens.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746398",
+        "name": "KP3R/USDT",
+        "symbol": "cfd.kp3r.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746399",
+        "name": "QI/USDT",
+        "symbol": "cfd.qi.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746400",
+        "name": "PORTO/USDT",
+        "symbol": "cfd.porto.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746401",
+        "name": "POWR/USDT",
+        "symbol": "cfd.powr.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746402",
+        "name": "VGX/USDT",
+        "symbol": "cfd.vgx.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746403",
+        "name": "JASMY/USDT",
+        "symbol": "cfd.jasmy.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746404",
+        "name": "AMP/USDT",
+        "symbol": "cfd.amp.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746405",
+        "name": "PLA/USDT",
+        "symbol": "cfd.pla.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746406",
+        "name": "PYR/USDT",
+        "symbol": "cfd.pyr.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746407",
+        "name": "RNDR/USDT",
+        "symbol": "cfd.rndr.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746408",
+        "name": "ALCX/USDT",
+        "symbol": "cfd.alcx.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746409",
+        "name": "SANTOS/USDT",
+        "symbol": "cfd.santos.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746410",
+        "name": "MC/USDT",
+        "symbol": "cfd.mc.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746411",
+        "name": "ANY/USDT",
+        "symbol": "cfd.any.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746412",
+        "name": "BICO/USDT",
+        "symbol": "cfd.bico.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746413",
+        "name": "FLUX/USDT",
+        "symbol": "cfd.flux.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746414",
+        "name": "FXS/USDT",
+        "symbol": "cfd.fxs.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746415",
+        "name": "VOXEL/USDT",
+        "symbol": "cfd.voxel.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746416",
+        "name": "HIGH/USDT",
+        "symbol": "cfd.high.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746417",
+        "name": "CVX/USDT",
+        "symbol": "cfd.cvx.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746418",
+        "name": "PEOPLE/USDT",
+        "symbol": "cfd.people.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746419",
+        "name": "OOKI/USDT",
+        "symbol": "cfd.ooki.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746420",
+        "name": "SPELL/USDT",
+        "symbol": "cfd.spell.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746421",
+        "name": "UST/USDT",
+        "symbol": "cfd.ust.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746422",
+        "name": "JOE/USDT",
+        "symbol": "cfd.joe.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746423",
+        "name": "ACH/USDT",
+        "symbol": "cfd.ach.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746424",
+        "name": "IMX/USDT",
+        "symbol": "cfd.imx.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746425",
+        "name": "GLMR/USDT",
+        "symbol": "cfd.glmr.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746426",
+        "name": "LOKA/USDT",
+        "symbol": "cfd.loka.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746427",
+        "name": "SCRT/USDT",
+        "symbol": "cfd.scrt.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746428",
+        "name": "API3/USDT",
+        "symbol": "cfd.api3.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746429",
+        "name": "BTTC/USDT",
+        "symbol": "cfd.bttc.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746430",
+        "name": "ACA/USDT",
+        "symbol": "cfd.aca.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746431",
+        "name": "ANC/USDT",
+        "symbol": "cfd.anc.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746432",
+        "name": "XNO/USDT",
+        "symbol": "cfd.xno.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746433",
+        "name": "WOO/USDT",
+        "symbol": "cfd.woo.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746434",
+        "name": "APE/USDT",
+        "symbol": "cfd.ape.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746435",
+        "name": "GMT/USDT",
+        "symbol": "cfd.gmt.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746436",
+        "name": "BSW/USDT",
+        "symbol": "cfd.bsw.usdt.-",
+        "priceIncrement": 0.01,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746437",
+        "name": "ASTR/USDT",
+        "symbol": "cfd.astr.usdt.-",
+        "priceIncrement": 0.00001,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746438",
+        "name": "GAL/USDT",
+        "symbol": "cfd.gal.usdt.-",
+        "priceIncrement": 0.0001,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746439",
+        "name": "MOB/USDT",
+        "symbol": "cfd.mob.usdt.-",
+        "priceIncrement": 0.0001,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    },
+    {
+        "kid": "123234532746440",
+        "name": "NEXO/USDT",
+        "symbol": "cfd.nexo.usdt.-",
+        "priceIncrement": 0.0001,
+        "pricePoint": 6,
+        "displayState": 3,
+        "state": 0,
+        "userCollect": false
+    }
+]

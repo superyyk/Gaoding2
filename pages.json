@@ -1,0 +1,291 @@
+{
+	"easycom":{
+	       "^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+	   },
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-app",
+				"navigationStyle": "custom"
+			}
+		}
+	    ,{
+            "path" : "pages/hangqing/hangqing",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+            }
+            
+        }
+        ,{
+            "path" : "pages/faxian/faxian",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+            }
+            
+        }
+        ,{
+            "path" : "pages/login/login",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"app-plus":{
+					"titleNView":{
+						"buttons":[
+							{
+								"color":"#0A98D5",
+								"text":"去注册",
+								"float":"right",
+								"colorPressed":"#f1f1f1",
+								"fontSize":"16px",
+								"width":"80px"
+								
+							}
+						]
+					}
+				}
+            }
+            
+        }
+        ,{
+            "path" : "person/person",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+            }
+            
+        }
+        ,{
+            "path" : "pages/login/regist/regist",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/login/pass-login/pass-login",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/hangqing/hangqing-detail/hangqing-detail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/hangqing/vip/vip",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/hangqing/vip/pay/pay",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/hangqing/vip/pay/pay-result/pay-result",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/hangqing/vip/card_detail/card_detail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "components/common/daojishi/daojishi",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "person/publish_news/publish_news",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "person/publish_celue/publish_celue",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "person/shear/shear",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "person/change_info/change_info",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "person/change_pass/change_pass",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "person/fankui/fankui",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "person/download/download",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "person/zhuti/zhuti",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "person/lang/lang",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/news_detail/news_detail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/zoushi/zoushi",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#c2d0d3",
+		"selectedColor": "#2dbe87",
+		"borderStyle":"white",
+		"backgroundColor":"#ffffff",
+		"fontSize":"14px",
+		"iconWidth":"25px",
+		"redDotColor":"#DD514C",
+		
+		"list": [
+			// {
+			// 	"pagePath": "pages/index2/index2",
+			// 	"text": "星节点",
+			// 	"iconPath": "static/foot/jiedian.png",
+			// 	"selectedIconPath": "static/foot/jiedian3.png"
+			// },
+			{
+				"pagePath": "pages/index/index",
+				"text": "快讯",
+				"iconPath": "static/footer/index.png",
+				"selectedIconPath": "static/footer/index1.png"
+			},
+			// {
+			// 	"pagePath": "pages/zoushi/zoushi",
+			// 	"text": "走势",
+			// 	"iconPath": "static/zoushi.png",
+			// 	"selectedIconPath": "static/zoushi1.png"
+			// },
+			{
+				"pagePath":"pages/faxian/faxian",
+				"text":"策略",
+				"iconPath":"static/footer/celue.png",
+				"selectedIconPath":"static/footer/celue1.png"
+				
+			},
+			{
+				"pagePath":"pages/hangqing/hangqing",
+				"text":"发现",
+				"iconPath":"static/footer/faxian.png",
+				"selectedIconPath":"static/footer/faxian1.png"
+			}
+		
+		
+		]
+	}
+}

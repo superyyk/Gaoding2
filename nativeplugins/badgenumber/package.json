@@ -1,0 +1,27 @@
+{  
+    "name": "badgenumber",  
+    "id": "badgenumber",  
+    "version": "0.0.1",  
+    "description": "桌面角标提示",  
+    "_dp_type":"nativeplugin",  
+    "_dp_nativeplugin":{  
+        "android": {  
+            "plugins": [  
+                {
+                    "type": "module",  
+                    "name": "Laowu-BadgeModule",
+                    "class": "com.ebl100.badgenumber.module.BadgeModule"  
+                }
+            ],  
+            "hooksClass": "com.ebl100.badgenumber.module.BadgeModule_AppProxy",  
+            "integrateType": "aar",  
+            "dependencies": [  
+            ],  
+            "minSdkVersion": "21",  
+            "permissions": [  
+            ],  
+            "parameters": {  
+            }  
+        }
+    }  
+}
